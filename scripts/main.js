@@ -84,7 +84,7 @@ async function getInputValue(){
   else if(value === "About me"){
     trueValue(value);
     createText("Hi, I am Kmath")
-    createText("I am a python developer. I have worked with other technologies such as <span class='blue'>Kotlin, Javascript and Visual Basic. </span>")
+    createText("I am an AI/ML enthusiast who works primarily with Python. I have some experience with JS and Kotlin in the past. </span>")
   }
   else if(value === "Socials"){
     trueValue(value);
